@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Argiris Mouratidis/Documents/StudentGuruMage/Assets/Scenes/maz_scene_final.unity
+  isLoaded: 1
+  isActive: 1
